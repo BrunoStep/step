@@ -4,7 +4,7 @@
 
 void percorre(double *matriz,int tam, void (*i) (double*)) {
 	double*m = matriz + tam;
-	for (int*p = m; p != m; ++p) {
+	for (double*p = m; p != m; ++p) {
 
 	}
 }
